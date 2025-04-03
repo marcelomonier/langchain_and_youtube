@@ -3,11 +3,14 @@
 This project allows you to extract the transcript of a YouTube video and use Google's Gemini model (via the [Google Generative AI](https://github.com/google/generative-ai-python) library) in combination with [Langchain](https://github.com/hwchase17/langchain) to generate a concise summary directly in a [Streamlit](https://streamlit.io/) application.
 
 
+
+---
+
 ## Screenshot
 
 Here’s what the application looks like in action:
 
-![Screenshot of the Streamlit app](Screenshot\ 2025-04-03\ at\ 00.25.23.png)
+![Screenshot of the Streamlit app](./image/screen.png)
 
 ---
 
