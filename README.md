@@ -110,10 +110,6 @@ Contributions are welcome! Follow these steps:
 3. Commit your changes.
 4. Open a pull request (PR) for this repository.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details (if present).
-
 ---
 
 <sub>**Note**: Make sure the YouTube video has subtitles (automatic or creator-provided) to successfully retrieve the transcript.</sub>
